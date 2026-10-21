@@ -55,10 +55,3 @@ DeepSeek 网页版是一个 React 单页应用（SPA），它通常在父元素�
 
 ---
 
-## 自动更新（可选）
-
-如果你希望已安装的用户能自动收到新版本，请在脚本头部的元数据块中加入：
-
-```javascript
-// @updateURL    https://raw.githubusercontent.com/你的用户名/仓库名/main/deepseek-new-tab.user.js
-// @downloadURL  https://raw.githubusercontent.com/你的用户名/仓库名/main/deepseek-new-tab.user.js
